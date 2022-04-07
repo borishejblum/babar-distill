@@ -1,0 +1,22 @@
+---
+title: "My scientific publications"
+date: "`r Sys.Date()`"
+description: " "
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Preprints
+
+ - Mon super preprint, B Hejblum, R Genuer, *arxiv*, 2022.
+ - Mon super preprint2, B Hejblum, R Genuer, *arxiv*, 2020.
+ 
+
+# Accepted
+
+ - Mon super preprint, B Hejblum, R Genuer, *arxiv*, 2022.
+
+

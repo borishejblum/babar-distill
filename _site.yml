@@ -1,12 +1,14 @@
 name: "."
-title: "babar-distill"
+title: "BABAR: Better And Better At R"
 description: |
-  babar-distill
+  Website for the working group BABAR 
+  of the Bordeaux Population Heath research center
 output_dir: "docs"
 navbar:
-  right:
-    - text: "Home"
-      href: index.html
+  left:
     - text: "About"
-      href: about.html
+      href: index.html
+    - text: "Publications"
+      href: publications.html
+  search: true
 output: distill::distill_article
